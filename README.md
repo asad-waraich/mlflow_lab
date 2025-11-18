@@ -225,10 +225,8 @@ with mlflow.start_run():
 
 ## Summary
 
-This is a simplified implementation that demonstrates:
-- Basic MLflow experiment tracking
+This implementation demonstrates:
+-  MLflow experiment tracking
 - Training a DistilBERT model on medical text
 - Logging parameters and metrics
 - Saving models to MLflow
-
-The focus is on getting MLflow working with a real ML model, not on achieving the best model performance. Once this runs successfully, you can add more sophisticated features!
